@@ -41,7 +41,7 @@
 MedVAR adapts **Visual Autoregressive Modeling** to medical imaging and reformulates generation as **coarse-to-fine next-scale prediction** rather than raster-scan next-token prediction. This makes sampling **fast, scalable, and stable** for 256×256 medical slices while preserving anatomical structure.
 
 <p align="center">
-  <img src="./assets/framework.png" width="93%">
+  <img src="./assets/framework.jpg" width="93%">
 </p>
 
 ### ⚡ Fast sampling without step-heavy diffusion
