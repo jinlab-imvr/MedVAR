@@ -82,7 +82,7 @@ If our work assists your research, feel free to give us a star ⭐ or cite us us
 ```bibtex
 @misc{he2026medvarscalableefficientmedical,
       title={MedVAR: Towards Scalable and Efficient Medical Image Generation via Next-scale Autoregressive Prediction}, 
-      author={Zhicheng He and Yunpeng Zhao and Junde Wu and Ziwei Niu and Zijun Li and Lanfen Lin and Yueming Jin},
+      author={Zhicheng He and Yunpeng Zhao and Junde Wu and Ziwei Niu and Zijun Li and Bohan Li and Lanfen Lin and Yueming Jin},
       year={2026},
       eprint={2602.14512},
       archivePrefix={arXiv},
